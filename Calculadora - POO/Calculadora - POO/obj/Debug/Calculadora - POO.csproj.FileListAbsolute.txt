@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\bin\Debug\Calculadora - POO.exe.config
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\bin\Debug\Calculadora - POO.exe
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\bin\Debug\Calculadora - POO.pdb
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\obj\Debug\Calculadora - POO.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\obj\Debug\Calculadora - POO.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\obj\Debug\Calculadora - POO.exe
+C:\Users\eduar\source\repos\Calculadora - POO\Calculadora - POO\obj\Debug\Calculadora - POO.pdb
